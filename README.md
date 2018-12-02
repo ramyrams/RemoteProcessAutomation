@@ -1,6 +1,22 @@
 # Remote Process Automation
 
 
+
+https://go.uipath.com/components#
+
+
+Using Dynatrace to Monitor RPA (Robotic Process Automation) Robots and BotFarms.
+https://www.dynatrace.com/news/blog/using-dynatrace-monitor-rpa-robotic-process-automation-robots-botfarms/
+
+
+https://dt-cdn.net/wp-content/uploads/2017/11/Robotic-Process-Automation-Tutorial.jpg
+https://dt-cdn.net/wp-content/uploads/2017/11/robotic-process-automation.jpg
+https://www.kofax.com/blog/-/media/CCDF7CBB74D74E538804C1363F91F118.ashx
+
+100 Automation Opportunities Across the Enterprise 
+https://www.kofax.com/-/media/Files/Infographics/EN/ig_100-automation-opportunites-rpa_en.pdf
+
+
 # 25 Examples of Processes For Robotic Process Automation
 
 * Insurance
