@@ -582,5 +582,8 @@ It is inevitable that processes or underlying systems that bots access will go t
 *  Production support team takes up the development of these changes based on the prioritization.
 *  Bot enhancement process to develop and test the bots is followed before the updated bots are moved to production.
 
+![](https://www.yash.com/wp-content/uploads/2018/11/robotic-process-automation-from-yash21.png)
+![](https://www.yash.com/wp-content/uploads/2018/11/robotic-process-automation-from-yash11.png)
+
 
 
