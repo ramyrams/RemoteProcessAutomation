@@ -11,14 +11,14 @@
 	As the RPA footprint expands across business units, IT support becomes increasingly important. The CoE should engage IT functions, including infrastructure, service/support, security and compliance. Many CoEs name an “IT liaison” to work directly with the CoE team to coordinate automation development so IT is in synch with security and compliance needs and to help resolve IT issues that may arise.
 
 
-Where is RPA best anchored in the enterprise structure?
-Who owns it?
-Who leads it?
-What is involved?
-How many people are needed?
-What expertise is required?
-How long will this take?
-What is an ideal budget?
+* Where is RPA best anchored in the enterprise structure?
+* Who owns it?
+* Who leads it?
+* What is involved?
+* How many people are needed?
+* What expertise is required?
+* How long will this take?
+* What is an ideal budget?
 
 
 # 6 Steps to Creating an RPA Center of Excellence
