@@ -1,4 +1,8 @@
 
+
+![](https://labs.sogeti.com/wp-content/uploads/2019/02/Core-Capabilities-of-an-RPA-COE-1024x587.jpg)
+
+
 * **Set up an RPA team with well-defined roles and responsibilities.**
 	Identify an RPA sponsor, change manager, solution architects, developers, infrastructure and service support to take on key roles in the RPA CoE. The team needs to understand how to work well together – and with stakeholders – to deploy automation technology, adhere to standard processes and procedures, and measure business metrics and performance goals, including return on investment and customer satisfaction.
 * **Establish an RPA CoE Council.**
