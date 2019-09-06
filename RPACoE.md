@@ -1,5 +1,5 @@
 
-* **Set up an RPA team with well-defined roles and responsibilities. **
+* *Set up an RPA team with well-defined roles and responsibilities. *
 	Identify an RPA sponsor, change manager, solution architects, developers, infrastructure and service support to take on key roles in the RPA CoE. The team needs to understand how to work well together – and with stakeholders – to deploy automation technology, adhere to standard processes and procedures, and measure business metrics and performance goals, including return on investment and customer satisfaction.
 * **Establish an RPA CoE Council. **
 	The RPA CoE Council is essentially a steering committee that provides overall governance and direction. It should meet regularly and include key representatives from the business, IT, Finance, audit, RPA CoE and others who will ensure the outcomes of RPA initiatives are in line with the objectives and expectations of executive management. The CoE Council should focus on driving RPA adoption across business units to create economies of scale and into the design and performance of the organization.
